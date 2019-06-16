@@ -1,1 +1,1 @@
-# Operations-Management-Case-study
+# Operations-Management-Case-study/ Power BI
